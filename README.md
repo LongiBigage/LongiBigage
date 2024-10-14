@@ -1,6 +1,6 @@
 # Hey! What's poppin :v:
 
-I like building things, and making the world a better place through tech.
+Building things, and making the world a better place through tech.
 
 ...and solving problems because, 
 
